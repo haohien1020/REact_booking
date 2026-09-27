@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="430" viewBox="0 0 800 430">
+<defs><linearGradient id="wall" x2="0" y2="1"><stop stop-color="#e8e3d8"/><stop offset="1" stop-color="#d3cdbc"/></linearGradient><linearGradient id="table" x2="0" y2="1"><stop stop-color="#c59360"/><stop offset="1" stop-color="#a36e43"/></linearGradient></defs>
+<path fill="url(#wall)" d="M0 0h800v430H0z"/><path fill="#d9d2c4" d="m0 310 410-35 390 35v120H0z"/>
+<path fill="#c5beb0" d="M75 0h10v310H75zM600 0h8v293h-8z"/>
+<rect x="100" y="40" width="278" height="212" rx="2" fill="#f3f0e6"/><path fill="#b9c6b2" d="M110 50h258v190H110z"/>
+<path fill="#d8e2d4" d="m110 50 258 0v85L110 209z"/><path stroke="#faf8f0" stroke-width="9" d="M237 50v190M110 150h258"/>
+<path fill="#5d7160" d="M453 68h102v124H453z"/><path fill="#d2d8bf" d="M465 80h78v100h-78z"/><path fill="#889981" d="m465 180 38-85 40 85z"/>
+<path stroke="#424c41" stroke-width="5" d="M419 0v53"/><path fill="#435545" d="M381 78q38-57 76 0z"/><path fill="#e9e4ca" d="M381 78h76v7h-76z"/>
+<g fill="#556b59"><rect x="180" y="235" width="62" height="85" rx="18"/><rect x="288" y="227" width="62" height="85" rx="18"/><rect x="440" y="223" width="62" height="85" rx="18"/><rect x="548" y="233" width="62" height="85" rx="18"/></g>
+<ellipse cx="397" cy="365" rx="249" ry="35" fill="#575c49" opacity=".13"/>
+<path stroke="#624d38" stroke-width="12" d="m237 299-13 85m334-83 15 83"/>
+<path fill="url(#table)" d="m237 267 302-3 86 62q6 8-14 10l-424 0q-24-3-8-14z"/><path fill="#97653e" d="M175 326q-5 8 12 10h424q20-2 14-10v10q-1 9-17 9H188q-16-1-13-10z"/>
+<path fill="#eeeade" d="m322 280 68 0 10 19h-74z"/><path stroke="#777e6e" stroke-width="2" d="m334 285 43 0m-40 6h40"/>
+<g fill="#718368"><rect x="263" y="327" width="73" height="72" rx="19"/><rect x="463" y="327" width="73" height="72" rx="19"/></g><path stroke="#475943" stroke-width="5" d="M272 392v38m55-38v38m145-38v38m55-38v38"/>
+<path fill="#b79978" d="m677 307 53 0-8 59h-37z"/><path stroke="#586b4b" stroke-width="5" d="M703 315V208"/><g fill="#6e815b"><ellipse cx="682" cy="243" rx="14" ry="37" transform="rotate(-35 682 243)"/><ellipse cx="722" cy="224" rx="13" ry="39" transform="rotate(32 722 224)"/><ellipse cx="704" cy="195" rx="13" ry="37"/></g>
+</svg>
